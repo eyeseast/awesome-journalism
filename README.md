@@ -2,6 +2,10 @@
 
 This is a collection of awesome things (preferably open source) to make your journalism better. Please add anything you think everyone should know about.
 
+## How to add an awesome thing
+
+ - open an issue with a link; or
+ - fork the repo, add something, send a pull request
 
 ## Charts
 
