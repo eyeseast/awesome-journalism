@@ -9,6 +9,7 @@ This is a collection of awesome things (preferably open source) to make your jou
 
 ## Maps
 
+ - [Pinpoint](https://github.com/dowjones/pinpoint) and [Pinpoint Editor](https://github.com/dowjones/pinpoint-editor) Web app for quickly creating and editing Pinpoint maps
 
 ## Memes and Share Graphics
 
