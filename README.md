@@ -34,4 +34,4 @@ This is a collection of awesome things (preferably open source) to make your jou
 ## Data Processing
 
  - [Open Refine](http://openrefine.org/) - Tool for working with messy data (cleaing, transforming, filtering, etc.).
- - [Mr. DataConverter](https://shancarter.github.io/mr-data-converter/) - converts Excel data into a web-friendly formats (HTML, JSON and XML).
+ - [Mr. DataConverter](https://shancarter.github.io/mr-data-converter/) - Converts Excel data into a web-friendly formats (HTML, JSON and XML).
