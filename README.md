@@ -22,6 +22,8 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [geojson.io](http://geojson.io/) - Web based tool to create and manipulate geo-files(geojson, topojson, kml, shp, etc).
  - [mapstarter](http://mapstarter.com/) - Web based tool to create interactive maps based on d3.js.
  - [ogr2ogr web client](http://ogre.adc4gis.com/) - Converts several types of geo formats to Geojson
+ - [cartodb](https://cartodb.com/) - Tool to create interactive maps
+ - [storymap.js](https://storymap.knightlab.com/) - Tool to help you tell stories on the web with interactive maps
 
 ## Memes and Share Graphics
 
@@ -29,3 +31,7 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [CardKit](https://github.com/times/cardkit) - CardKit is flexible, SVG image / card creation tool, with simple configuration options, which is easy to extend.
  - [Quotable](https://github.com/nprapps/quotable) - Quotable is an app that lets you make sharable images out of quotations.
 
+## Data Processing
+
+ - [Open Refine](http://openrefine.org/) - Tool for working with messy data (cleaing, transforming, filtering, etc.).
+ - [Mr. DataConverter](https://shancarter.github.io/mr-data-converter/) - converts Excel data into a web-friendly formats (HTML, JSON and XML).
