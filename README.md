@@ -10,6 +10,8 @@ This is a collection of awesome things (preferably open source) to make your jou
 ## Charts
 
  - [ChartBuilder](https://github.com/Quartz/Chartbuilder/) Chartbuilder is a front-end charting application that facilitates easy creation of simple beautiful charts.
+ - [Datawrapper](https://datawrapper.de/) - Create charts and maps in just four steps. This tool reduces the time you need to create visualizations from hours to minutes.
+ - [Raw](http://raw.densitydesign.org/) - Tool to create interactive graphics from tabular data
 
 ## Maps
 
