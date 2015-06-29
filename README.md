@@ -21,6 +21,7 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [Mapbox Studio](https://www.mapbox.com/mapbox-studio/#darwin) - Tool to create custom map styles.
  - [geojson.io](http://geojson.io/) - Web based tool to create and manipulate geo-files(geojson, topojson, kml, shp, etc).
  - [mapstarter](http://mapstarter.com/) - Web based tool to create interactive maps based on d3.js.
+ - [ogr2ogr web client](http://ogre.adc4gis.com/) - Converts several types of geo formats to Geojson
 
 ## Memes and Share Graphics
 
