@@ -37,3 +37,4 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [Open Refine](http://openrefine.org/) - Tool for working with messy data (cleaing, transforming, filtering, etc.).
  - [Mr. DataConverter](https://shancarter.github.io/mr-data-converter/) - Converts Excel data into a web-friendly formats (HTML, JSON and XML).
  - [csvkit](http://csvkit.readthedocs.org/en/0.9.1/) - Suite of command line tools for converting to and working with CSV files.
+ - [jq](http://stedolan.github.io/jq/) - A lightweight and flexible JSON processor (slice, filter, map and transform data).
