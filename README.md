@@ -15,6 +15,13 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [charted](http://www.charted.co/) - Create charts from CSVs or spreadsheet links
  - [timeline.js](http://timeline.knightlab.com/) - Creates timelines that are easy and intuitive to use
 
+## Data Processing
+
+ - [Open Refine](http://openrefine.org/) - Tool for working with messy data (cleaing, transforming, filtering, etc.).
+ - [Mr. DataConverter](https://shancarter.github.io/mr-data-converter/) - Converts Excel data into a web-friendly formats (HTML, JSON and XML).
+ - [csvkit](http://csvkit.readthedocs.org/en/0.9.1/) - Suite of command line tools for converting to and working with CSV files.
+ - [jq](http://stedolan.github.io/jq/) - A lightweight and flexible JSON processor (slice, filter, map and transform data).
+
 ## Maps
 
  - [Pinpoint](https://github.com/dowjones/pinpoint) and [Pinpoint Editor](https://github.com/dowjones/pinpoint-editor) - Web app for quickly creating and editing Pinpoint maps
@@ -32,10 +39,3 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [Meme](https://github.com/voxmedia/meme) - Meme is a generator that Vox Media uses to create social sharing images. See working version at http://www.sbnation.com/a/meme.
  - [CardKit](https://github.com/times/cardkit) - CardKit is flexible, SVG image / card creation tool, with simple configuration options, which is easy to extend.
  - [Quotable](https://github.com/nprapps/quotable) - Quotable is an app that lets you make sharable images out of quotations.
-
-## Data Processing
-
- - [Open Refine](http://openrefine.org/) - Tool for working with messy data (cleaing, transforming, filtering, etc.).
- - [Mr. DataConverter](https://shancarter.github.io/mr-data-converter/) - Converts Excel data into a web-friendly formats (HTML, JSON and XML).
- - [csvkit](http://csvkit.readthedocs.org/en/0.9.1/) - Suite of command line tools for converting to and working with CSV files.
- - [jq](http://stedolan.github.io/jq/) - A lightweight and flexible JSON processor (slice, filter, map and transform data).
