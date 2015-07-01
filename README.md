@@ -22,6 +22,10 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [csvkit](http://csvkit.readthedocs.org/en/0.9.1/) - Suite of command line tools for converting to and working with CSV files.
  - [jq](http://stedolan.github.io/jq/) - A lightweight and flexible JSON processor (slice, filter, map and transform data).
 
+## Documents
+
+ - [DocumentCloud](https://www.documentcloud.org) - DocumentCloud is a catalog of primary source documents and a tool for annotating, organizing and publishing them on the web.
+
 ## Maps
 
  - [Pinpoint](https://github.com/dowjones/pinpoint) and [Pinpoint Editor](https://github.com/dowjones/pinpoint-editor) - Web app for quickly creating and editing Pinpoint maps
