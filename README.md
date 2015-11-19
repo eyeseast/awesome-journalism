@@ -20,6 +20,8 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [Open Refine](http://openrefine.org/) - Tool for working with messy data (cleaing, transforming, filtering, etc.).
  - [Mr. DataConverter](https://shancarter.github.io/mr-data-converter/) - Converts Excel data into a web-friendly formats (HTML, JSON and XML).
  - [csvkit](http://csvkit.readthedocs.org/en/0.9.1/) - Suite of command line tools for converting to and working with CSV files.
+ - [agate](https://agate.readthedocs.org/en/1.1.0/) - Python data analysis library, an alternative to numpy or pandas.
+ - [proof](https://proof.readthedocs.org/en/0.3.0/#) - Python library for creating repeatable data pipelines.
  - [jq](http://stedolan.github.io/jq/) - A lightweight and flexible JSON processor (slice, filter, map and transform data).
 
 ## Documents
