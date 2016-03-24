@@ -40,6 +40,7 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [cartodb](https://cartodb.com/) - Tool to create interactive maps.
  - [storymap.js](https://storymap.knightlab.com/) - Tool to help you tell stories on the web with interactive maps.
  - [Odyssey](http://cartodb.github.io/odyssey.js/) - Tool to create interactive map based stories.
+ - [dropchop](http://dropchop.io/) - Browser-based GIS powered by Mapbox.js and Turf.js
 
 ## Memes and Share Graphics
 
