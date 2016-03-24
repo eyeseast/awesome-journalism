@@ -23,6 +23,7 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [agate](https://agate.readthedocs.org/en/1.1.0/) - Python data analysis library, an alternative to numpy or pandas.
  - [proof](https://proof.readthedocs.org/en/0.3.0/#) - Python library for creating repeatable data pipelines.
  - [jq](http://stedolan.github.io/jq/) - A lightweight and flexible JSON processor (slice, filter, map and transform data).
+-  [konklone](http://konklone.io/json/) - Simple JSON to CSV converter
 
 ## Documents
 
