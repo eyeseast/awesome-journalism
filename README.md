@@ -47,3 +47,6 @@ This is a collection of awesome things (preferably open source) to make your jou
  - [Meme](https://github.com/voxmedia/meme) - Meme is a generator that Vox Media uses to create social sharing images. See working version at http://www.sbnation.com/a/meme.
  - [CardKit](https://github.com/times/cardkit) - CardKit is flexible, SVG image / card creation tool, with simple configuration options, which is easy to extend.
  - [Quotable](https://github.com/nprapps/quotable) - Quotable is an app that lets you make sharable images out of quotations.
+
+## Resources
+- [Awesome Science Writing](https://github.com/HussainAther/awesome-science-writing) - Resources for science writers
